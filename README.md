@@ -2,3 +2,5 @@
 Create time series plots using iotc tuna data
 
 Model to predict |YFT|. 
+
+Using time series model. 
